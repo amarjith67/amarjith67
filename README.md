@@ -13,9 +13,6 @@
 
 - 📫 How to reach me **amarjithraj67@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 ![Amarjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=amarjith67&show_icons=true&theme=ocean_dark)
 
