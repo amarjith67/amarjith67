@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amarjith</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<div align="right">
+<div style="display: inline-block">
 
 ![Amarjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=amarjith67&show_icons=true&theme=ocean_dark)
-</div>
 
 - 🌱 I’m currently learning **Machine Learning , Flutter**
 
@@ -13,8 +12,7 @@
 - 💬 Ask me about **python,Backend Development**
 
 - 📫 How to reach me **amarjithraj67@gmail.com**
-
-
+</div>
 <a href="https://github.com/amarjith67">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarjith67&hide=html,css&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&bg_color=141321" />
 </a><br>
