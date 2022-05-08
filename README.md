@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amarjith</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<div style="display: inline-block">
+<div style="display: flex; justify-content: center">
 
 ![Amarjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=amarjith67&show_icons=true&theme=ocean_dark)
 
