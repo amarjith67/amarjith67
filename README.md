@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amarjith</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<div style="display: flex; justify-content: center ;align-items: center">
-
+<div style="display: flex; justify-content: center;align-items: center">
+ 
 ![Amarjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=amarjith67&show_icons=true&theme=ocean_dark)
 
 - 🌱 I’m currently learning **Machine Learning , Flutter**
@@ -19,7 +19,7 @@
 
 <h3 align="left">Amarjith's github activity graph</h3>
 
-[![Amarjith's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=chartreuse-dark)](https://github.com/amarjith67)
+[![Amarjith's github activity graph](https://activity-graph.herokuapp.com/graph?username=amarjith670&theme=chartreuse-dark)](https://github.com/amarjith67)
 
 
 <h3 align="left">Languages and Tools:</h3>
