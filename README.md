@@ -3,7 +3,7 @@
 ![Amarjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=amarjith67&show_icons=true&theme=radical)
 
 <a href="https://github.com/amarjith67">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarjith67&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarjith67&hide=html,css&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&bg_color=141321" />
 </a><br>
 
 
