@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amarjith</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amarjith67&label=Profile%20views&color=0e75b6&style=flat" alt="amarjith67" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amarjith67" alt="amarjith67" /></a> </p>
+![Amarjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=amarjith67&show_icons=true&theme=ocean_dark)
 
 - 🌱 I’m currently learning **Machine Learning , Flutter**
 
@@ -13,8 +12,6 @@
 
 - 📫 How to reach me **amarjithraj67@gmail.com**
 
-
-![Amarjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=amarjith67&show_icons=true&theme=ocean_dark)
 
 <a href="https://github.com/amarjith67">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarjith67&hide=html,css&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&bg_color=141321" />
