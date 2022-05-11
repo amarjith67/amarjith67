@@ -4,15 +4,6 @@
  
 ![Amarjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=amarjith67&show_icons=true&theme=codeSTACKr)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amarjith67&show_icons=true&theme=codeSTACKr" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarjith67&layout=compact&theme=codeSTACKr" />
-</a>
-
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarjith67&layout=compact&theme=codeSTACKr)](https://github.com/amarjith67/github-readme-stats)
 <br>
 
@@ -34,4 +25,12 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amarjith67&theme=ads-juicy-fresh)](https://git.io/streak-stats)
 
-
+<a href="https://github.com/amarjith67/hackfit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amarjith67&repo=hackfit&theme=codeSTACKr" />
+</a>
+<a href="https://github.com/amarjith67/QR-Code-Scanner">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amarjith67&repo=QR-Code-Scanner&theme=codeSTACKr" />
+</a>
+<a href="https://github.com/amarjith67/Socket-programming-project">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amarjith67&repo=Socket-programming-project&theme=codeSTACKr" />
+</a>
