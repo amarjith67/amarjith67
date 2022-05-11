@@ -3,7 +3,7 @@
 
 <div style="display: flex; justify-content: center;align-items: center">
  
-![Amarjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=amarjith67&show_icons=true&theme=aura)
+![Amarjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=amarjith67&show_icons=true&theme=codeSTACKr)
 
 - 🌱 I’m currently learning **Machine Learning , Flutter**
 
