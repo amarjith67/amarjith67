@@ -1,9 +1,21 @@
 <h1 align="center">Hi 👋, I'm Amarjith</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<div style="display: flex; justify-content: center;align-items: center">
  
 ![Amarjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=amarjith67&show_icons=true&theme=codeSTACKr)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarjith67&layout=compact&theme=codeSTACKr)](https://github.com/amarjith67/github-readme-stats)
+<br>
+
 
 - 🌱 I’m currently learning **Machine Learning , Flutter**
 
@@ -12,11 +24,6 @@
 - 💬 Ask me about **python,Backend Development**
 
 - 📫 How to reach me **amarjithraj67@gmail.com**
-</div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarjith67&layout=compact&theme=codeSTACKr)](https://github.com/amarjith67/github-readme-stats)
-<br>
-
 <h3 align="left">Amarjith's github activity graph</h3>
 
 [![Amarjith's github activity graph](https://activity-graph.herokuapp.com/graph?username=amarjith67&theme=chartreuse-dark)](https://github.com/amarjith67)
