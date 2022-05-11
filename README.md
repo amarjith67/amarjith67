@@ -19,7 +19,7 @@
 
 <h3 align="left">Amarjith's github activity graph</h3>
 
-[![Amarjith's github activity graph](https://activity-graph.herokuapp.com/graph?username=amarjith67&theme=chartreuse-dark)](https://github.com/amarjith67)
+[![Amarjith's github activity graph](https://activity-graph.herokuapp.com/graph?username=amarjith67&theme=aura)](https://github.com/amarjith67)
 
 
 <h3 align="left">Languages and Tools:</h3>
