@@ -26,7 +26,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amarjith67&theme=ads-juicy-fresh)](https://git.io/streak-stats)
 
 <a href="https://github.com/amarjith67/hackfit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amarjith67&repo=hackfit&theme=codeSTACKr" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amarjith67&repo=library&theme=codeSTACKr" />
 </a>
 <a href="https://github.com/amarjith67/QR-Code-Scanner">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amarjith67&repo=QR-Code-Scanner&theme=codeSTACKr" />
