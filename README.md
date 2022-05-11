@@ -13,9 +13,9 @@
 
 - 📫 How to reach me **amarjithraj67@gmail.com**
 </div>
-<a href="https://github.com/amarjith67">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarjith67&hide=html,css&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&bg_color=141321" />
-</a><br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarjith67&layout=compact&theme=codeSTACKr)](https://github.com/amarjith67/github-readme-stats)
+<br>
 
 <h3 align="left">Amarjith's github activity graph</h3>
 
